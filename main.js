@@ -2,6 +2,8 @@ song1="";
 song2="";
 leftx=0;
 lefty=0;
+righty=0;
+rightx=0;
 function preload() {
     song1=loadSound("music.mp3");
     song2=loadSound("music2.mp3");
