@@ -50,7 +50,7 @@ song1.play();
 document.getElementById("sn").innerHTML="Peter Pan Song";
     }
     }
-
+    song2s=song2.isPlaying();
     if(srightw>0.2){
         circle(rightx,righty,20);
         song1.stop();
